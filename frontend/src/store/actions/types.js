@@ -1,0 +1,3 @@
+export const RESET_BOARD = 'RESET_BOARD';
+export const UPDATE_BOARD_STATE = 'UPDATE_BOARD'
+export const UPDATE_WINNER = 'UPDATE_WINNER'
